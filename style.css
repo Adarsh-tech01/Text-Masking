@@ -1,0 +1,9 @@
+.masking{
+	font-size: 15em;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-image: url(/Exercise/122.jpg);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	color: transparent;
+}
